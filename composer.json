@@ -4,15 +4,18 @@
     "type": "library",
     "homepage": "https://github.com/Logicify/jquery-locationpicker-plugin",
     "keywords": [
-      "jquery-plugin",
-      "googlemap",
-      "gmapapi",
-      "location",
-      "input",
-      "radius",
-      "map"
+        "jquery-plugin",
+        "googlemap",
+        "gmapapi",
+        "location",
+        "input",
+        "radius",
+        "map"
     ],
     "license": "MIT",
+    "replace": {
+        "bower-asset/jquery-locationpicker-plugin" : ">=0.1.15"
+    },
     "authors": [
         {
             "name": "Dmitry Berezovsky",
