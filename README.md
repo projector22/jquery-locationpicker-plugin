@@ -1,6 +1,14 @@
 JQuery Location Picker plugin
 =============================
 
+__Note__
+
+This fork is to allow the continuing use of library, as the original seems to have dropped off of Bower. It hasn't actually been updated in many years and I don't intend to start developing it.
+
+<img width="441" height="26" alt="image" src="https://github.com/user-attachments/assets/bf2e8061-8a54-427b-ba30-7cd407a73ccd" />
+
+---
+
 ![Location Picker](http://logicify.github.io/jquery-locationpicker-plugin/images/basic_ui.png)
 
 This plug-in allows finding and selecting a location on the Google map. Along with single point selection, it allows area selection by choosing a point and specifying a radius. The selection can be saved to any HTML input element or processed by Javascript with callback support.
