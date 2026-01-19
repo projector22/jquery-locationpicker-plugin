@@ -1,7 +1,27 @@
 {
     "name": "projector22/jquery-location-picker",
+    "description": "Fork of original package to allow use on Packagist. This plug-in allows finding and selecting a location on the Google map. Along with single point selection, it allows area selection by choosing a point and specifying a radius. The selection can be saved to any HTML input element or processed by Javascript with callback support. An optional automatic address resolver can reverse geocode the selection to an address. The plug-in also supports searching by address typed into the bound input element which uses auto-complete feature from Google API to make the search process easier. In this case the marker will be automatically positioned on the map after successful address resolution.",
     "type": "library",
+    "homepage": "https://github.com/Logicify/jquery-locationpicker-plugin",
+    "keywords": [
+      "jquery-plugin",
+      "googlemap",
+      "gmapapi",
+      "location",
+      "input",
+      "radius",
+      "map"
+    ],
     "license": "MIT",
-    "authors": [],
+    "authors": [
+        {
+            "name": "Dmitry Berezovsky",
+            "email": "dmitry.berezovsky@logicify.com"
+        },
+        {
+            "name": "Gareth Palmer",
+            "email": "gareth@one-space.co.za"
+        }
+    ],
     "require": {}
 }
